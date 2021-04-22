@@ -9,7 +9,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokalpavcu&show_icons=true&locale=en&layout=compact" alt="gokalpavcu" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokalpavcu&show_icons=true&locale=en" alt="gokalpavcu" /></p>
- ## Examples of Work
- 
- <img src="/adriantwarog/adriantwarog/blob/master/ipad%20learning.gif?raw=true" alt="ipad learning.gif">
+
 
