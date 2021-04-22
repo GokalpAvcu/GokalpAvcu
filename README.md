@@ -10,8 +10,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokalpavcu&show_icons=true&locale=en&layout=compact" alt="gokalpavcu" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokalpavcu&show_icons=true&locale=en" alt="gokalpavcu" /></p>
 
-Examples of Work
-<img src="https://github.com/GokalpAvcu/GokalpAvcu/ipad learning.gif" width="256" />
+## Examples of Work
+<img src="https://github.com/GokalpAvcu/GokalpAvcu/ipadlearning.gif" width="256" />
 
 
 
