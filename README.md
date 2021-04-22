@@ -1,7 +1,7 @@
 ## Hi there, I'm Gökalp👋
 
 <h1 align="center">Hi There, I'm Gökalp 👋</h1>
-<h3 align="center">A passionate frontend developer from Turkey, welcome to my github profile.</h3>
+<h3 align="center">A passionate frontend developer from Turkey, welcome to my Github profile.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
