@@ -13,6 +13,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=GokalpAvcu&theme=tokyonight" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokalpAvcu&langs_count=10&theme=tokyonight&layout=compact" alt="GokalpAvcu:: Top Langs" />
 
+<img src="https://github.com/adriantwarog/adriantwarog/blob/f18f21d501c68faff89e036755b92c53e341e8c1/ipad%20learning.gif" width="256" />
+
 
 
 
