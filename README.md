@@ -16,7 +16,11 @@
 <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=GokalpAvcu&theme=tokyonight" >
  </details>
+ 
+ <details>
+<summary>:bulb: Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokalpAvcu&langs_count=10&theme=tokyonight&layout=compact" alt="GokalpAvcu:: Top Langs" />
+ </details></p>
 
 
 
