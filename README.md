@@ -10,4 +10,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokalpavcu&" alt="gokalpavcu" /></p>
 
-! [ Anurag'ın GitHub istatistikleri] (https://github-readme-stats.vercel.app/api ? Username = GokalpAvcu & hide = katkılar, prs )
+ [ Anurag'ın GitHub istatistikleri] (https://github-readme-stats.vercel.app/api ? Username = GokalpAvcu & hide = katkılar, prs )
