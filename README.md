@@ -11,7 +11,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokalpavcu&show_icons=true&locale=en" alt="gokalpavcu" /></p>
 
 ## Examples of Work
-<img src="https://github.com/GokalpAvcu/GokalpAvcu/blob/master/ipadlearning.gif" width="256" />
+<img src="https://github.com/GokalpAvcu/GokalpAvcu/blob/master/ipadlearning.gif" width="250" />
 
 
 
