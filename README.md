@@ -1,5 +1,5 @@
  ## Hi there, I'm Gökalp👋 
-<h2 align="left">A passionate frontend developer from Turkey, I do content on Design and Development. I really enjoy learning languages and frameworks like Html, Css, Javascript, Asp.Net Mvc & Core Mvc as well as work in C#. I love open source development and I build things on my GitHub profile. Welcome to my Github profile.👩🏻‍💻</h3>
+<h3 align="left">A passionate frontend developer from Turkey, I do content on Design and Development. I really enjoy learning languages and frameworks like Html, Css, Javascript, Asp.Net Mvc & Core Mvc as well as work in C#. I love open source development and I build things on my GitHub profile. Welcome to my Github profile.👩🏻‍💻</h3>
 
 <h2 align='left'> Contact me! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
 <a href = 'https://linkedin.com/in/gökalp-avcu-204b741a8'> <img width ='32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
